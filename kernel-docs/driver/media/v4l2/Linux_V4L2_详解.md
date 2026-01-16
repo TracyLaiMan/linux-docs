@@ -1160,9 +1160,3 @@ int main()
 - UVC Gadget 代码：`kernel/*/drivers/usb/gadget/uvc*.c`
 - 项目代码：`kernel/*/drivers/media/v4l2-core/`
 - USB Video Class 规范：USB-IF 官方文档
-
----
-
-**文档生成时间**：2024年
-**项目路径**：`/home/t/Develop/00_project/VisonT`
-**适用内核版本**：Linux 3.10.14 / 4.4.94
